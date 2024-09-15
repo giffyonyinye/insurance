@@ -1,0 +1,924 @@
+<!DOCTYPE html><html lang="en-US"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+					<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+				<title>Page not found – Insur</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Insur » Feed" href="https://bracketweb.com/insurwp/feed/">
+<link rel="alternate" type="application/rss+xml" title="Insur » Comments Feed" href="https://bracketweb.com/insurwp/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bracketweb.com\/insurwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" media="all">
+<link rel="stylesheet" id="jquery-selectBox-css" href="../css/jquery.selectBox.css" media="all">
+<link rel="stylesheet" id="yith-wcwl-font-awesome-css" href="../css/font-awesome.css" media="all">
+<link rel="stylesheet" id="woocommerce_prettyPhoto_css-css" href="../css/prettyPhoto.css" media="all">
+<link rel="stylesheet" id="yith-wcwl-main-css" href="../css/style_4.css" media="all">
+<style id="yith-wcwl-main-inline-css">
+.yith-wcwl-share li a{color: #FFFFFF;}.yith-wcwl-share li a:hover{color: #FFFFFF;}.yith-wcwl-share a.facebook{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.facebook:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.twitter{background: #45AFE2; background-color: #45AFE2;}.yith-wcwl-share a.twitter:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.pinterest{background: #AB2E31; background-color: #AB2E31;}.yith-wcwl-share a.pinterest:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.email{background: #FBB102; background-color: #FBB102;}.yith-wcwl-share a.email:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.whatsapp{background: #00A901; background-color: #00A901;}.yith-wcwl-share a.whatsapp:hover{background: #39599E; background-color: #39599E;}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" media="all">
+<link rel="stylesheet" id="layerdrops-toolbar-css-css" href="../css/layerdrops-toolbar_3.css" media="all">
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="animate-css" href="../css/animate.min.css" media="all">
+<link rel="stylesheet" id="custom-animate-css" href="../css/custom-animate.css" media="all">
+<link rel="stylesheet" id="bootstrap-select-css" href="../css/bootstrap-select.min.css" media="all">
+<link rel="stylesheet" id="bxslider-css" href="../css/jquery.bxslider.css" media="all">
+<link rel="stylesheet" id="jarallax-css" href="../css/jarallax.css" media="all">
+<link rel="stylesheet" id="jquery-magnific-popup-css" href="../css/jquery.magnific-popup.css" media="all">
+<link rel="stylesheet" id="odometer-css" href="../css/odometer.min.css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="../css/owl.carousel.min.css" media="all">
+<link rel="stylesheet" id="owl-theme-css" href="../css/owl.theme.default.min.css" media="all">
+<link rel="stylesheet" id="reey-font-css" href="../css/stylesheet.css" media="all">
+<link rel="stylesheet" id="swiper-css" href="../css/swiper.min.css" media="all">
+<link rel="stylesheet" id="nice-select-css" href="../css/nice-select.css" media="all">
+<link rel="stylesheet" id="rangeSlider-css" href="../css/ion.rangeSlider.min.css" media="all">
+<link rel="stylesheet" id="insur-addon-style-css" href="../css/insur-addon.css" media="all">
+<link rel="stylesheet" id="insur-fonts-css" href="../css/css.css" media="all">
+<link rel="stylesheet" id="flaticons-css" href="../css/flaticon.css" media="all">
+<link rel="stylesheet" id="insur-icons-css" href="../css/style.css" media="all">
+<link rel="stylesheet" id="insur-icons-two-css" href="../css/style_3.css" media="all">
+<link rel="stylesheet" id="insur-three-icon-css" href="../css/style_1.css" media="all">
+<link rel="stylesheet" id="insur-four-icon-css" href="../css/style_2.css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="../css/bootstrap.min.css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="../css/all.min.css" media="all">
+<link rel="stylesheet" id="insur-style-css" href="../css/style_9.css" media="all">
+<style id="insur-style-inline-css">
+:root {
+			
+		}.page-header-bg { background-image: url(page-header-bg.jpg); } .preloader .preloader__image { background-image: url(loader.png); } 
+@font-face {
+			font-family: "star";
+			src: url("../star.eot");
+			src: url("../star.eot#iefix") format("embedded-opentype"),
+				url("../star.woff") format("woff"),
+				url("../star.ttf") format("truetype"),
+				url("star.svg#star") format("svg");
+			font-weight: normal;
+			font-style: normal;
+		}
+</style>
+<link rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="../css/public.css" media="all">
+<script src="../js/jquery.min.js" id="jquery-core-js"></script>
+<script src="../js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script src="../js/js.cookie.min_3.js" id="js-cookie-js" defer="" data-wp-strategy="defer"></script>
+<script src="../js/jquery.blockUI.min.js" id="jquery-blockui-js" defer="" data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/insurwp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/insurwp\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/bracketweb.com\/insurwp\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="../js/add-to-cart.min.js" id="wc-add-to-cart-js" defer="" data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/insurwp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/insurwp\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="../js/woocommerce.min.js" id="woocommerce-js" defer="" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://bracketweb.com/insurwp/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bracketweb.com/insurwp/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.1">
+<meta name="generator" content="WooCommerce 8.7.0">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.20.1; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<link rel="icon" href="loader.png" sizes="32x32">
+<link rel="icon" href="loader.png" sizes="192x192">
+<link rel="apple-touch-icon" href="loader.png">
+<meta name="msapplication-TileImage" content="https://bracketweb.com/insurwp/wp-content/uploads/2022/08/loader.png">
+</head>
+
+<body class="error404 theme-insur woocommerce-no-js hfeed custom-cursor woocommerce-active elementor-default elementor-kit-7">
+	            <div class="custom-cursor__cursor"></div>
+            <div class="custom-cursor__cursor-two"></div>
+
+				<!-- Preloader -->
+		<div class="preloader">
+			<div class="preloader__image"></div>
+		</div>
+		<!-- /.preloader -->
+
+	<div id="page" class="site page-wrapper">
+		<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+		
+	
+                    <!-- the loop -->
+                            		<div data-elementor-type="wp-post" data-elementor-id="577" class="elementor elementor-577">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-09cb672 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="09cb672" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22ffa8c" data-id="22ffa8c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-afd2ab4 elementor-widget elementor-widget-insur-header" data-id="afd2ab4" data-element_type="widget" data-widget_type="insur-header.default">
+				<div class="elementor-widget-container">
+			
+	<header class="main-header clearfix">
+		<div class="main-header__top">
+			<div class="container">
+				<div class="main-header__top-inner">
+					<div class="main-header__top-address">
+													<ul class="list-unstyled main-header__top-address-list ml-0">
+																	<li>
+										<i class="icon insur-icon-svg">
+											<span aria-hidden="true" class="icon-pin"></span>										</i>
+										<div class="text">
+											<p>30 Commercial Road Fratton, Australia
+
+</p>
+										</div>
+									</li>
+																	<li>
+										<i class="icon insur-icon-svg">
+											<span aria-hidden="true" class=" icon-email"></span>										</i>
+										<div class="text">
+											<p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
+										</div>
+									</li>
+															</ul>
+											</div>
+					<div class="main-header__top-right">
+													<div class="main-header__top-menu-box">
+								<ul class="list-unstyled main-header__top-menu">
+																			<li><a href="https://bracketweb.com/insurwp/about/">Make a Claim</a></li>
+																			<li><a href="https://bracketweb.com/insurwp/faqs/">FAQs</a></li>
+																			<li><a href="https://bracketweb.com/insurwp/about/">About</a></li>
+																	</ul>
+							</div>
+																			<div class="main-header__top-social-box">
+								<div class="main-header__top-social">
+																			<a class="insur-icon-svg" href="http://twiiter.com" target="_blank">
+											<i aria-hidden="true" class="fab fa-twitter"></i>										</a>
+																			<a class="insur-icon-svg" href="http://fb.com" target="_blank">
+											<i aria-hidden="true" class="fab fa-facebook-f"></i>										</a>
+																			<a class="insur-icon-svg" href="http://pinterest.com" target="_blank">
+											<i aria-hidden="true" class="fab fa-pinterest-p"></i>										</a>
+																			<a class="insur-icon-svg" href="http://pinterest.com" target="_blank">
+											<i aria-hidden="true" class="fab fa-instagram"></i>										</a>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+		<nav class="main-menu clearfix">
+			<div class="main-menu__wrapper clearfix">
+				<div class="container">
+					<div class="main-menu__wrapper-inner clearfix">
+						<div class="main-menu__left">
+							<div class="main-menu__logo">
+								<a href="https://bracketweb.com/insurwp/">
+									<img decoding="async" width="143" height="27" src="logo-dark.png" alt="Insur">
+								</a>
+							</div>
+							<div class="main-menu__main-menu-box">
+								<div class="main-menu__main-menu-box-inner">
+									<a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+									<div class="menu-menu-1-container"><ul id="menu-menu-1" class="main-menu__list  "><li id="menu-item-583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home megamenu megamenu-style-alt menu-item-has-children  megamenu-clickable megamenu-clickable--toggler is-new-menu menu-item-583"><a href="https://bracketweb.com/insurwp/">Demos</a><ul class="sub-menu"><li>		<div data-elementor-type="wp-post" data-elementor-id="938" class="elementor elementor-938">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-61f9c4f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="61f9c4f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c6e9c61" data-id="c6e9c61" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-afa80ef elementor-widget elementor-widget-insur-fancybox" data-id="afa80ef" data-element_type="widget" data-widget_type="insur-fancybox.default">
+				<div class="elementor-widget-container">
+				<ul>
+		<li>
+			<div class="megamenu-popup">
+				<span class="megamenu-clickable--close">
+					<a href="#"></a>
+				</span><!-- /.megamenu-clickable--close -->
+				<div class="megamenu-popup__content">
+					<div class="demos-one">
+						<div class="container">
+							<div class="row">
+																											<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																									<span class="demos-one__new">new</span>
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img fetchpriority="high" decoding="async" width="370" height="431" src="home-1-10-1.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-nine/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-nine/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home page 09</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																									<span class="demos-one__new">new</span>
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img decoding="async" width="370" height="431" src="home-1-9-1.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-eight/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-eight/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home page 08</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																									<span class="demos-one__new">new</span>
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-9.png" alt="">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-six/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/onepage-home-six/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home page 06</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																									<span class="demos-one__new">new</span>
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-10.png" alt="">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-seven/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/onepage-home-seven/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home page 07</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-7-1.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-four/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-four/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home page 04</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-8.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-five/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-five/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home page 05</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-1.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-one/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Homepage 01</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-2.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-two/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-two/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Homepage 02</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-3.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-three/" class="thm-btn">
+																Multi Page															</a>
+																																											<a href="https://bracketweb.com/insurwp/one-page-home-three/" class="thm-btn">
+																One Page															</a>
+																											</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Homepage 03</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-4.png" alt="">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/?boxed_mode=yes" class="thm-btn">
+																View Page															</a>
+																																									</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home boxed</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-5.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/home-dark/" class="thm-btn">
+																View Page															</a>
+																																									</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home Dark</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																			<div class="col-md-6 col-lg-4">
+											<div class="demos-one__single">
+																								<!-- /.demos-one__new -->
+												<div class="demos-one__image">
+																											<img loading="lazy" decoding="async" width="370" height="431" src="home-1-6.png" alt="alt">
+																										<div class="demos-one__buttons">
+																													<a href="https://bracketweb.com/insurwp/rtl-home/?rtl_mode=yes" class="thm-btn">
+																View Page															</a>
+																																									</div>
+													<!-- /.demos-one__buttons -->
+												</div><!-- /.demos-one__image -->
+												<div class="demos-one__text">
+													<h3>Home RTL</h3>
+												</div><!-- /.demos-one__text -->
+											</div><!-- /.demos-one__single -->
+										</div><!-- /.col-md-6 -->
+																								</div><!-- /.row -->
+						</div><!-- /.container -->
+					</div><!-- /.demos-one -->
+				</div><!-- /.megamenu-popup__content -->
+			</div><!-- /.megamenu-popup -->
+		</li>
+	</ul>
+		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</li></ul></li>
+<li id="menu-item-606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children megamenu-hide menu-item-606"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="https://bracketweb.com/insurwp/about/">About</a></li>
+	<li id="menu-item-1848" class="is-new-menu menu-item menu-item-type-post_type menu-item-object-page megamenu-hide menu-item-1848"><a href="https://bracketweb.com/insurwp/login-register/" class="is-new-menu">Sign In</a></li>
+	<li id="menu-item-1849" class="is-new-menu menu-item menu-item-type-post_type menu-item-object-page megamenu-hide menu-item-1849"><a href="https://bracketweb.com/insurwp/make-a-claim/" class="is-new-menu">Maturity claims</a></li>
+	<li id="menu-item-1850" class="is-new-menu menu-item menu-item-type-post_type menu-item-object-page megamenu-hide menu-item-1850"><a href="https://bracketweb.com/insurwp/policy-proposal/" class="is-new-menu">Policy proposal</a></li>
+	<li id="menu-item-601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-601"><a href="https://bracketweb.com/insurwp/team/">Team</a></li>
+	<li id="menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602"><a href="https://bracketweb.com/insurwp/team-carousel/">Team carousel</a></li>
+	<li id="menu-item-603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-603"><a href="https://bracketweb.com/insurwp/team-details/">Team details</a></li>
+	<li id="menu-item-616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616"><a href="https://bracketweb.com/insurwp/portfolio/">Portfolio</a></li>
+	<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://bracketweb.com/insurwp/portfolio-carousel/">Portfolio carousel</a></li>
+	<li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-791"><a href="https://bracketweb.com/insurwp/portfolio/insurance-policy-eight/">Portfolio Details</a></li>
+	<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="https://bracketweb.com/insurwp/testimonials/">Testimonials</a></li>
+	<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="https://bracketweb.com/insurwp/testimonials-carousel/">Testimonials carousel</a></li>
+	<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="https://bracketweb.com/insurwp/pricing/">Pricing</a></li>
+	<li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href="https://bracketweb.com/insurwp/faqs/">FAQS</a></li>
+	<li id="menu-item-667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-667"><a href="https://bracketweb.com/insurwp/error">404 Error</a></li>
+</ul>
+</li>
+<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu-hide menu-item-614"><a href="https://bracketweb.com/insurwp/insurance-01/">Insurance&nbsp;</a>
+<ul class="sub-menu">
+	<li id="menu-item-592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-592"><a href="https://bracketweb.com/insurwp/insurance-01/">Insurance&nbsp;01</a></li>
+	<li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="https://bracketweb.com/insurwp/insurance-02/">Insurance&nbsp;02</a></li>
+	<li id="menu-item-1980" class="menu-item menu-item-type-post_type menu-item-object-page megamenu-hide menu-item-1980"><a href="https://bracketweb.com/insurwp/insurance-03/">Insurance&nbsp;03</a></li>
+	<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="https://bracketweb.com/insurwp/car-insurance/">Car Insurance</a></li>
+	<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-855"><a href="https://bracketweb.com/insurwp/home-insurance/">Home insurance</a></li>
+	<li id="menu-item-850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-850"><a href="https://bracketweb.com/insurwp/travel-insurance/">Travel insurance</a></li>
+	<li id="menu-item-851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-851"><a href="https://bracketweb.com/insurwp/marriage-insurance/">Marriage insurance</a></li>
+	<li id="menu-item-852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-852"><a href="https://bracketweb.com/insurwp/fire-insurance/">Fire insurance</a></li>
+	<li id="menu-item-853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-853"><a href="https://bracketweb.com/insurwp/business-insurance/">Business insurance</a></li>
+	<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-854"><a href="https://bracketweb.com/insurwp/health-insurance/">Health insurance</a></li>
+	<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a href="https://bracketweb.com/insurwp/life-insurance/">Life insurance</a></li>
+</ul>
+</li>
+<li id="menu-item-1360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu-hide menu-item-1360"><a href="https://bracketweb.com/insurwp/shop/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-1363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1363"><a href="https://bracketweb.com/insurwp/shop/">Shop</a></li>
+	<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1364"><a href="https://bracketweb.com/insurwp/product/t-shirt-with-logo/">Product</a></li>
+	<li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1362"><a href="https://bracketweb.com/insurwp/cart/">Cart</a></li>
+	<li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1361"><a href="https://bracketweb.com/insurwp/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu-hide menu-item-594"><a href="https://bracketweb.com/insurwp/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="https://bracketweb.com/insurwp/news/">News</a></li>
+	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://bracketweb.com/insurwp/news-carousel/">News carousel</a></li>
+	<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-596"><a href="https://bracketweb.com/insurwp/news-sidebar/">News right  sidebar</a></li>
+	<li id="menu-item-1954" class="is-new-menu menu-item menu-item-type-custom menu-item-object-custom megamenu-hide menu-item-1954"><a href="https://bracketweb.com/insurwp/news-sidebar/?sidebar=left-align" class="is-new-menu">News left sidebar</a></li>
+	<li id="menu-item-795" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-795"><a href="https://bracketweb.com/insurwp/leverage-agile-frameworks-to-provide/">News Details</a></li>
+</ul>
+</li>
+<li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page megamenu-hide menu-item-586"><a href="https://bracketweb.com/insurwp/contact/">Contact</a></li>
+</ul></div>								</div>
+								<div class="main-menu__main-menu-box-search-get-quote-btn">
+
+									<div class="main-menu__main-menu-box-search">
+																					<a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
+																															<a href="https://bracketweb.com/insurwp/cart/" class="main-menu__cart insur-two-icon-shopping-cart"></a>
+																			</div>
+
+																			<div class="main-menu__main-menu-box-get-quote-btn-box">
+											<a href="https://bracketweb.com/insurwp/contact/" class="thm-btn main-menu__main-menu-box-get-quote-btn">Get a Quote</a>
+										</div>
+																	</div>
+							</div>
+						</div>
+						<div class="main-menu__right">
+							<div class="main-menu__call">
+								<div class="main-menu__call-icon insur-icon-svg">
+									<i aria-hidden="true" class="fas fa-phone"></i>								</div>
+																	<div class="main-menu__call-content">
+																					<a href="tel:9200368090"> +92 (003) 68-090</a>
+																															<p>Call to Our Experts</p>
+																			</div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+
+			<div class="stricky-header stricked-menu main-menu">
+			<div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+		</div><!-- /.stricky-header -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mobile-nav__wrapper">
+	<div class="mobile-nav__overlay mobile-nav__toggler"></div>
+	<!-- /.mobile-nav__overlay -->
+	<div class="mobile-nav__content">
+		<span class="mobile-nav__close mobile-nav__toggler"></span>
+
+		<div class="logo-box">
+			<a href="https://bracketweb.com/insurwp/">
+				<img loading="lazy" decoding="async" width="143" height="27" src="logo-light.png" id="mobile-thm-logo" alt="Insur">
+			</a>
+		</div>
+		<!-- /.logo-box -->
+		<div class="mobile-nav__container"></div>
+		<!-- /.mobile-nav__container -->
+					<ul class="mobile-nav__contact list-unstyled ml-0">
+									<li>
+						<i class="fa fa-envelope"></i>
+						<a href="needhelp@insur.com">needhelp@insur.com</a>
+					</li>
+													<li>
+						<i class="fa fa-phone-alt"></i>
+						<a href="tel:666-888-0000">666 888 0000</a>
+					</li>
+										</ul><!-- /.mobile-nav__contact -->
+			<div class="mobile-nav__top">
+				<div class="mobile-nav__social">
+											<a target="_blank" class="icon-svg" href="http://twitter.com">
+							<span aria-hidden="true" class="fab fa-twitter"></span>						</a>
+											<a target="_blank" class="icon-svg" href="http://twitter.com">
+							<span aria-hidden="true" class="fab fa-facebook-square"></span>						</a>
+											<a target="_blank" class="icon-svg" href="http://twitter.com">
+							<span aria-hidden="true" class="fab fa-pinterest-p"></span>						</a>
+									</div><!-- /.mobile-nav__social -->
+			</div><!-- /.mobile-nav__top -->
+	</div>
+	<!-- /.mobile-nav__content -->
+</div>
+
+
+
+	<div class="search-popup">
+		<div class="search-popup__overlay search-toggler"></div>
+		<!-- /.search-popup__overlay -->
+		<div class="search-popup__content">
+			<form action="https://bracketweb.com/insurwp/">
+				<label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+				<input type="text" id="search" name="s" placeholder="Search Here...">
+				<button type="submit" aria-label="search submit" class="thm-btn">
+					<i class="icon-magnifying-glass"></i>
+				</button>
+			</form>
+		</div>
+		<!-- /.search-popup__content -->
+	</div>
+
+
+
+
+	<a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
+
+		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		                        <!-- end of the loop -->
+
+            
+        
+		
+					<!--Page Header Start-->
+<section class="page-header">
+	<div class="page-header-bg"></div>
+			<div class="page-header-shape-1"><img src="page-header-shape-1.png" alt="shape"></div>
+		<div class="container">
+		<div class="page-header__inner">
+										<ul class="thm-breadcrumb list-unstyled ml-0" typeof="BreadcrumbList" vocab="https://schema.org/">
+					<!-- Breadcrumb NavXT 7.3.0 -->
+<li class="home"><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Insur." href="https://bracketweb.com/insurwp" class="home"><span property="name">Insur</span></a><meta property="position" content="1"></span></li>
+<li class="404 current-item"><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to 404." href="" class="404 current-item" aria-current="page"><span property="name">404</span></a><meta property="position" content="2"></span></li>
+				</ul>
+									<h2>
+									Page Not Found							</h2>
+		</div>
+	</div>
+</section>
+<!--Page Header End-->		
+<main id="primary" class="site-main">
+
+	<!--Error Page Start-->
+	<section class="error-page">
+					<div class="error-page-shape-1 float-bob-y" style="background-image: url(error-page-shape-1.png);"></div>
+				<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="error-page__inner">
+						<div class="error-page__title-box ">
+							<h2 class="error-page__title">404</h2>
+							<h3 class="error-page__sub-title">Page not found!</h3>
+						</div>
+						<p class="error-page__text">Sorry we can't find that page! The page you are looking <br> for
+							was never existed.</p>
+						<div class="error-page__form">
+							<form action="https://bracketweb.com/insurwp/" class="error-page__form" method="get">
+    <div class="error-page__form-input">
+    <input type="search" placeholder="Search here" value="" name="s">
+        <button type="submit"><i class="icon-magnifying-glass"></i></button>
+    </div>
+</form>						</div>
+						<a href="https://bracketweb.com/insurwp/" class="thm-btn error-page__btn">Back to home</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--Error Page End-->
+
+</main><!-- #main -->
+
+
+
+
+
+
+
+	
+                    <!-- the loop -->
+                            		<div data-elementor-type="wp-post" data-elementor-id="668" class="elementor elementor-668">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-f2c0c41 elementor-section-full_width site-footer elementor-section-height-default elementor-section-height-default" data-id="f2c0c41" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cb9eb50" data-id="cb9eb50" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<div class="elementor-element elementor-element-f348f42 footer-shape-bg elementor-widget elementor-widget-insur-shape" data-id="f348f42" data-element_type="widget" data-widget_type="insur-shape.default">
+				<div class="elementor-widget-container">
+				<div class="site-footer-bg" style="background-image: url(site-footer-bg.png);"></div>
+		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-72e2484 site-footer__top elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="72e2484" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5130ac0" data-id="5130ac0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ee672d2 elementor-widget elementor-widget-footer-about" data-id="ee672d2" data-element_type="widget" data-widget_type="footer-about.default">
+				<div class="elementor-widget-container">
+				<div class="footer-widget__column footer-widget__about">
+		<div class="footer-widget__logo">
+			<a href="https://bracketweb.com/insurwp/">
+				<img loading="lazy" decoding="async" width="176" height="34" src="logo-light.png" alt="Insur">
+			</a>
+		</div>
+					<div class="footer-widget__about-text-box">
+				<p class="footer-widget__about-text">Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt.</p>
+			</div>
+							<div class="site-footer__social">
+									<a class="icon-svg" href="http://twitter.com" target="_blank">
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+									<a class="icon-svg" href="http://fb.com" target="_blank">
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+									<a class="icon-svg" href="http://linkedin.com" target="_blank">
+						<i aria-hidden="true" class="fab fa-pinterest-p"></i>					</a>
+									<a class="icon-svg" href="http://linkedin.com" target="_blank">
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+							</div>
+			</div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d84d6a0" data-id="d84d6a0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d7765da elementor-widget elementor-widget-footer-contact" data-id="d7765da" data-element_type="widget" data-widget_type="footer-contact.default">
+				<div class="elementor-widget-container">
+				<div class="footer-widget__column footer-widget__contact clearfix">
+					<h3 class="footer-widget__title">Contact</h3>
+				<ul class="footer-widget__contact-list list-unstyled clearfix ml-0">
+							<li>
+					<div class="icon insur-icon-svg">
+						<span aria-hidden="true" class="icon-email"></span>					</div>
+					<div class="text">
+						<p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
+					</div>
+				</li>
+							<li>
+					<div class="icon insur-icon-svg">
+						<span aria-hidden="true" class=" icon-pin"></span>					</div>
+					<div class="text">
+						<p>30 Commercial Road Fratton, Australia
+
+</p>
+					</div>
+				</li>
+					</ul>
+					<div class="footer-widget__open-hour">
+				<h3 class="footer-widget__open-hour-title">Open Hours</h3>
+				<h3 class="footer-widget__open-hour-text">Mon – Sat: 8:00 am to 6:00 pm Sunday:
+                                        Closed</h3>
+			</div>
+			</div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f7b2f1b" data-id="f7b2f1b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-151e823 elementor-widget elementor-widget-insur-footer-gallery" data-id="151e823" data-element_type="widget" data-widget_type="insur-footer-gallery.default">
+				<div class="elementor-widget-container">
+			    <div class="footer-widget__column footer-widget__gallery clearfix">
+                    <h3 class="footer-widget__title">Gallery</h3>
+                <ul class="footer-widget__gallery-list list-unstyled clearfix ml-0">
+                                                <li>
+                        <div class="footer-widget__gallery-img">
+                            <img decoding="async" src="footer-widget-gallery-img-1.jpg" alt="alt">
+                            <a target="_blank" href="https://bracketweb.com/insurwp/car-insurance/"><span class="fa fa-link"></span></a>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="footer-widget__gallery-img">
+                            <img decoding="async" src="footer-widget-gallery-img-2.jpg" alt="alt">
+                            <a target="_blank" href="https://bracketweb.com/insurwp/car-insurance/"><span class="fa fa-link"></span></a>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="footer-widget__gallery-img">
+                            <img decoding="async" src="footer-widget-gallery-img-3.jpg" alt="alt">
+                            <a target="_blank" href="https://bracketweb.com/insurwp/car-insurance/"><span class="fa fa-link"></span></a>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="footer-widget__gallery-img">
+                            <img decoding="async" src="footer-widget-gallery-img-4.jpg" alt="alt">
+                            <a target="_blank" href="https://bracketweb.com/insurwp/car-insurance/"><span class="fa fa-link"></span></a>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="footer-widget__gallery-img">
+                            <img decoding="async" src="footer-widget-gallery-img-5.jpg" alt="alt">
+                            <a target="_blank" href="https://bracketweb.com/insurwp/car-insurance/"><span class="fa fa-link"></span></a>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="footer-widget__gallery-img">
+                            <img decoding="async" src="footer-widget-gallery-img-6.jpg" alt="alt">
+                            <a target="_blank" href="https://bracketweb.com/insurwp/car-insurance/"><span class="fa fa-link"></span></a>
+                        </div>
+                    </li>
+                                    </ul>
+    </div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2c06fe1" data-id="2c06fe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7eaf52b elementor-widget elementor-widget-footer-subscribe" data-id="7eaf52b" data-element_type="widget" data-widget_type="footer-subscribe.default">
+				<div class="elementor-widget-container">
+				<div class="footer-widget__column footer-widget__newsletter">
+					<h3 class="footer-widget__title">Newsletter</h3>
+							<p class="footer-widget__newsletter-text">Subscribe our newsletter to get our
+latest update &amp; news.</p>
+				<form class="footer-widget__newsletter-form mc-form" data-url="https://xyz.us18.list-manage.com/subscribe/post?u=20e91746ef818cd941998c598&amp;id=cc0ee8140e">
+			<div class="footer-widget__newsletter-input-box">
+				<input type="email" placeholder="Email Address" name="email">
+				<button type="submit" class="footer-widget__newsletter-btn insur-icon-svg">
+					<i aria-hidden="true" class="far fa-paper-plane"></i>				</button>
+			</div>
+		</form>
+					<div class="footer-widget__phone">
+				<div class="footer-widget__phone-icon">
+					<span aria-hidden="true" class="icon-telephone"></span>				</div>
+				<div class="footer-widget__phone-text">
+					<a href="tel:9200368090">+92 (003) 68-090</a>
+					<p>Call to Our Experts </p>
+				</div>
+			</div>
+			</div>
+		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-1176bea elementor-widget elementor-widget-footer-copyright" data-id="1176bea" data-element_type="widget" data-widget_type="footer-copyright.default">
+				<div class="elementor-widget-container">
+				<div class="site-footer__bottom container">
+		<div class="row">
+			<div class="col-xl-12">
+									<div class="site-footer__bottom-inner">
+						<p class="site-footer__bottom-text">© All Copyright 2024 by <a href="#">Insur WordPress</a></p>
+					</div>
+							</div>
+		</div>
+	</div>
+		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		                        <!-- end of the loop -->
+
+            
+        
+</div><!-- #page -->
+
+	<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="elementor-frontend-css" href="../css/frontend-lite.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-577-css" href="../css/post-577.css" media="all">
+<link rel="stylesheet" id="elementor-post-668-css" href="../css/post-668.css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="../css/elementor-icons.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-7-css" href="../css/post-7.css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="../css/global.css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="../css/css_1.css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-1-css" href="../css/style_5.css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="../css/fontawesome.min.css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="../css/brands.min.css" media="all">
+<script src="../js/jquery.selectBox.min.js" id="jquery-selectBox-js"></script>
+<script src="../js/jquery.prettyPhoto.min.js" id="prettyPhoto-js" data-wp-strategy="defer"></script>
+<script id="jquery-yith-wcwl-js-extra">
+var yith_wcwl_l10n = {"ajax_url":"\/insurwp\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","yith_wcwl_button_position":"after_add_to_cart","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"","ajax_loader_url":"https:\/\/bracketweb.com\/insurwp\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","time_to_close_prettyphoto":"3000","fragments_index_glue":".","reload_on_found_variation":"1","mobile_media_query":"768","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies on your browser are enabled.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Product added to cart successfully<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"},"nonce":{"add_to_wishlist_nonce":"68bf19cca2","remove_from_wishlist_nonce":"0daa4b579b","reload_wishlist_and_adding_elem_nonce":"752a2fc5d2","load_mobile_nonce":"05fb74abc4","delete_item_nonce":"0b4085f938","save_title_nonce":"87b2d2943b","save_privacy_nonce":"b1ab3ca124","load_fragments_nonce":"13b0f03383"},"redirect_after_ask_estimate":"","ask_estimate_redirect_url":"https:\/\/bracketweb.com\/insurwp"};
+</script>
+<script src="../js/jquery.yith-wcwl.min.js" id="jquery-yith-wcwl-js"></script>
+<script src="../js/index_1.js" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/bracketweb.com\/insurwp\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="../js/index.js" id="contact-form-7-js"></script>
+<script src="../js/jQuery.style.switcher.min_3.js" id="jquery-style-switcher-js"></script>
+<script src="../js/color-switcher_3.js" id="layerdrops-toolbar-color-switcher-js"></script>
+<script src="../js/sourcebuster.min.js" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"ajaxurl":"https:\/\/bracketweb.com\/insurwp\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="../js/order-attribution.min.js" id="wc-order-attribution-js"></script>
+<script src="../js/bootstrap.min.js" id="bootstrap-js"></script>
+<script src="../js/bootstrap-select.min.js" id="bootstrap-select-js"></script>
+<script src="../js/jquery.bxslider.min.js" id="jquery-bxslider-js"></script>
+<script src="../js/countdown.min.js" id="countdown-js"></script>
+<script src="../js/isotope.js" id="isotope-js"></script>
+<script src="../js/jarallax.min.js" id="jarallax-js"></script>
+<script src="../js/jquery.ajaxchimp.min.js" id="jquery-ajaxchimp-js"></script>
+<script src="../js/jquery.appear.min.js" id="jquery-appear-js"></script>
+<script src="../js/jquery.easing.min.js" id="jquery-easing-js"></script>
+<script src="../js/jquery.magnific-popup.min.js" id="jquery-magnific-popup-js"></script>
+<script src="../js/jquery.circle-progress.min.js" id="jquery-circle-progress-js"></script>
+<script src="../js/odometer.min.js" id="odometer-js"></script>
+<script src="../js/owl.carousel.min.js" id="owl-carousel-js"></script>
+<script src="../js/swiper.min.js" id="swiper-js"></script>
+<script src="../js/ion.rangeSlider.min.js" id="rangeSlider-js"></script>
+<script src="../js/wow.js" id="wow-js"></script>
+<script src="../js/sharer.min.js" id="sharer-js"></script>
+<script src="../js/jquery.nice-select.min.js" id="nice-select-js"></script>
+<script id="insur-addon-script-js-extra">
+var insur_login_object = {"ajaxurl":"https:\/\/bracketweb.com\/insurwp\/wp-admin\/admin-ajax.php","login_redirect_url":"https:\/\/bracketweb.com\/insurwp\/","registration_redirect_url":"https:\/\/bracketweb.com\/insurwp\/","message":"<strong>Error:<\/strong>Please use valid userName or password","check_login":"no","str_login":"Please login to add favorite!","str_add_wishlist":"Add favorite successfully!","str_remove_wishlist":"Remove favorite successfully!"};
+</script>
+<script src="../js/insur-addon.js" id="insur-addon-script-js"></script>
+<script src="../js/insur-theme_3.js" id="insur-theme-js"></script>
+<script src="../js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script src="../js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script src="../js/waypoints.min.js" id="elementor-waypoints-js"></script>
+<script src="../js/core.min.js" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.20.1","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true},"urls":{"assets":"https:\/\/bracketweb.com\/insurwp\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found &#8211; Insur","excerpt":""}};
+</script>
+<script src="../js/frontend.min.js" id="elementor-frontend-js"></script>
+
+
+
+</body></html>
